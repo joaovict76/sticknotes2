@@ -1,0 +1,25 @@
+{
+  "name": "sticknotes2",
+  "version": "1.0.0",
+  "description": "projeto de notas autoadesivas no mongoDB",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "joão Victor",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaovict76/sticknotes2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joaovict76/sticknotes2/issues"
+  },
+  "homepage": "https://github.com/joaovict76/sticknotes2#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.12.1"
+  }
+}

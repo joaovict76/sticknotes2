@@ -1,0 +1,4 @@
+
+function exit() {
+    api.aboutExit()
+}
