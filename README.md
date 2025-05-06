@@ -2,3 +2,5 @@
 
 # StickyNotes2
 Projeto de notas autoadesivas (estilo post-it) usando o freamwork  electron e o banco de dados no mongoDB.
+
+![](src/public/img/Capturar.PNG)
