@@ -2,7 +2,7 @@
 const { connect } = require('http2')
 const mongoose = require('mongoose')
 
-const url = 'mongodb+srv://admin:123Senac@cluster02.czib3.mongodb.net/dbnotes'
+const url = 'mongodb://localhost:27017'
 
 let connected = false
 
